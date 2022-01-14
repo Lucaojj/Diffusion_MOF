@@ -1,0 +1,50 @@
+data_image0
+_cell_length_a       12.02
+_cell_length_b       11.19
+_cell_length_c       11.067
+_cell_angle_alpha    90
+_cell_angle_beta     121.78
+_cell_angle_gamma    90
+
+_symmetry_space_group_name_H-M    "P 1"
+_symmetry_int_tables_number       1
+
+loop_
+  _symmetry_equiv_pos_as_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_label
+  _atom_site_occupancy
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_thermal_displace_type
+  _atom_site_B_iso_or_equiv
+  _atom_site_type_symbol
+  O1       1.0000 0.33860  0.12920  0.49390  Biso   1.000  O
+  O2       1.0000 0.40970  0.29340  0.62520  Biso   1.000  O
+  C1       1.0000 0.32190  0.22770  0.53400  Biso   1.000  C
+  O3       1.0000 0.83860  0.62920  0.49390  Biso   1.000  O
+  O4       1.0000 0.90970  0.79340  0.62520  Biso   1.000  O
+  C2       1.0000 0.82190  0.72770  0.53400  Biso   1.000  C
+  O5       1.0000 0.66140  0.12920  0.50610  Biso   1.000  O
+  O6       1.0000 0.59030  0.29340  0.37480  Biso   1.000  O
+  C3       1.0000 0.67810  0.22770  0.46600  Biso   1.000  C
+  O7       1.0000 0.16140  0.62920  0.50610  Biso   1.000  O
+  O8       1.0000 0.09030  0.79340  0.37480  Biso   1.000  O
+  C4       1.0000 0.17810  0.72770  0.46600  Biso   1.000  C
+  O9       1.0000 0.66140  0.87080  0.50610  Biso   1.000  O
+  O10      1.0000 0.59030  0.70660  0.37480  Biso   1.000  O
+  C5       1.0000 0.67810  0.77230  0.46600  Biso   1.000  C
+  O11      1.0000 0.16140  0.37080  0.50610  Biso   1.000  O
+  O12      1.0000 0.09030  0.20660  0.37480  Biso   1.000  O
+  C6       1.0000 0.17810  0.27230  0.46600  Biso   1.000  C
+  O13      1.0000 0.33860  0.87080  0.49390  Biso   1.000  O
+  O14      1.0000 0.40970  0.70660  0.62520  Biso   1.000  O
+  C7       1.0000 0.32190  0.77230  0.53400  Biso   1.000  C
+  O15      1.0000 0.83860  0.37080  0.49390  Biso   1.000  O
+  O16      1.0000 0.90970  0.20660  0.62520  Biso   1.000  O
+  C8       1.0000 0.82190  0.27230  0.53400  Biso   1.000  C
+  Na1      1.0000 0.50000  0.00000  0.50000  Biso   1.000  Na
+  Na2      1.0000 0.00000  0.50000  0.50000  Biso   1.000  Na
